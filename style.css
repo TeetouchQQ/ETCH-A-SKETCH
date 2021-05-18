@@ -1,0 +1,13 @@
+.container{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    background-color: aqua;
+
+}
+.grid-item{
+    border:solid 1px rgb(0, 255,0);
+    padding: 20px;
+    text-align: center;
+    background-color: royalblue;
+}
